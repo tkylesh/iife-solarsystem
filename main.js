@@ -4,3 +4,7 @@
 console.log("SolarSystem", SolarSystem);
 console.log("Get ActiveSpaceCraft", SolarSystem.getActiveSpaceCraft());
 console.log("Get PlanetsLanded on", SolarSystem.getPlanetsLandedOn());
+
+console.log("Get Closest Stars to sun", SolarSystem.getClosestStars());
+console.log("Get Age of SolarSystem", SolarSystem.getAgeOfSolarsystem());
+console.log("Get dwarf planets", SolarSystem.getDwarfPlanets());
