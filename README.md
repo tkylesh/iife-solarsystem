@@ -11,7 +11,10 @@ In your terminal run:
 ```
 http-server -p 9999
 ```
-then navigate to http://localhost:9999 in your browser.
+then in chrome navigate to:
+```
+http://localhost:9999
+```
 
 ## Contributors
 - [Taylor Shuff](http://github.com/tkylesh)
